@@ -13,11 +13,11 @@
   "project": {
     "version": "12.4.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mb684965\\OneDrive\\_GiangDay\\chuyende\\sampleaspnet\\SampleWeb\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\learn\\sample_netcore_web\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\mb684965\\OneDrive\\_GiangDay\\chuyende\\sampleaspnet\\SampleWeb\\Web\\Web.csproj",
+      "projectPath": "C:\\learn\\sample_netcore_web\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\mb684965\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mb684965\\OneDrive\\_GiangDay\\chuyende\\sampleaspnet\\SampleWeb\\Web\\obj\\",
+      "outputPath": "C:\\learn\\sample_netcore_web\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mb684965\\AppData\\Roaming\\NuGet\\NuGet.Config",
